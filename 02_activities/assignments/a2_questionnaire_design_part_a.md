@@ -29,7 +29,7 @@ Describe your target population, sampling frame, sampling units, and observation
 
 Your 5-10 question survey:
 ```
- 1. On a scale of 1 to 5, How satisfied are you with your experience working at our company?
+ 1. On a scale of 1 to 5, how satisfied are you with your experience working at our company?
  2. How happy are you with your current role? (Scale of 1-5)
  3. What parts of your job are you unhappy with ?(Open-ended)
  4. What changes would you suggest to make things better here? (Open-ended)
