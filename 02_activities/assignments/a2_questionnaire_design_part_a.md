@@ -16,31 +16,30 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: 1
 
-Describe the purpose of your survey:
-```
-write your answer here...
-```
+Describe the purpose of your survey: 
+To understand why many entry- and lower-level employees are leaving our tech company and  find out what makes employees unhappy and what changes we can make to keep them satisfied.
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+ • Target Population: Entry- and lower-level employees from all departments.
+ • Sampling Frame: A list of all current entry- and lower-level employees.
+ • Sampling Units: Individual employees in these positions.
+ • Sampling Strategy: We’ll use here SRS -by  randomly select employees from different departments to ensure we hear from a representative sample. This helps us understand why people are leaving the company and what can be changed.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+ 1. On a scale of 1 to 5, How satisfied are you with your experience working at our company?
+ 2. How happy are you with your current role? (Scale of 1-5)
+ 3. What parts of your job are you unhappy with ?(Open-ended)
+ 4. What changes would you suggest to make things better here? (Open-ended)
+ 5. Are you aware of opportunities for growth and development? (Scale of 1-5)
+ 6. How do you feel about work-life balance here? (Scale of 1-5)
+ 7. Have you discussed your growth with your manager or supervisor? (Yes/No)
+ 8. Do you feel recognized and appreciated for your work? (Yes/No)
+ 9. Do you think your ideas are valued by your managers? (Yes/No)
+ 10. How likely are you to recommend our company as a place to work? (Scale of 1-5)
+
 
 ## Rubric
 
