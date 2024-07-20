@@ -20,8 +20,7 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 | Limitations, known biases                             |  Survey mode  may limit accessibility for some populations.                                                                                          |                                             |   Potential inaccuracies in DNA identification and representation of prey species.                                                                                          |
                        |
 | Citation                                              |                                                                                            |                                             |                                                                                             |
-| Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
-
+| Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             
 ## Criteria
 
 |Criteria|Complete|Incomplete|
