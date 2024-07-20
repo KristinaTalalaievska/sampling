@@ -18,10 +18,9 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 | Cleaning, imputation, etc.                            |    Data cleaned to remove inconsistencies and ensure quality.                                                                                        |                                             |     Manual removal of insect fragments, ethanol evaporation                                                                                        |
 | Sources of error                                      |    Response Bias, Non-Response Bias,Survey Fatigue,Recall Bias                                                                                       |                                             |   Possible errors dentification of insect fragments.                                                                                          |
 | Limitations, known biases                             |  Survey mode  may limit accessibility for some populations.                                                                                          |                                             |   Potential inaccuracies in DNA identification and representation of prey species.                                                                                          |
-| Citation                                              |                                                                                           |   
-                                         |                                                                                            |
+                       |
+| Citation                                              |                                                                                            |                                             |                                                                                             |
 | Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
-                             |                                                                                         |
 
 ## Criteria
 
