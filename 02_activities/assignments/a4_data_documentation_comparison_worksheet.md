@@ -19,7 +19,9 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 | Sources of error                                      |    Response Bias, Non-Response Bias,Survey Fatigue,Recall Bias                                                                                       |                                             |   Possible errors dentification of insect fragments.                                                                                          |
 | Limitations, known biases                             |  Survey mode  may limit accessibility for some populations.                                                                                          |                                             |   Potential inaccuracies in DNA identification and representation of prey species.                                                                                          |
                        
-| Citation                                              |                                                                                            |                                             |                                                                                             |
+| Citation                                              |    https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm                                                                                         |        CES2019Codebook.pdf
+https://dimension.usherbrooke.ca/documents/CES2019Codebook.pdf                                      |    https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12192 
+|
 | Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
 
 ## Criteria
