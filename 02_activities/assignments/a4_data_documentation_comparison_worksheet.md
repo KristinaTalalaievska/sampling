@@ -19,8 +19,9 @@ Sources: - Canadian General Social Survey on Giving, Volunteering, and Participa
 | Sources of error                                      |    Response Bias, Non-Response Bias,Survey Fatigue,Recall Bias                                                                                       |                                             |   Possible errors dentification of insect fragments.                                                                                          |
 | Limitations, known biases                             |  Survey mode  may limit accessibility for some populations.                                                                                          |                                             |   Potential inaccuracies in DNA identification and representation of prey species.                                                                                          |
                        |
-| Citation                                                |                                                                                            |                                             |                                                                                             |
-| Links to any documentation or additional sources used |                                                                                            |                                             |     |                                                                                        
+| Citation                                              |                                                                                            |                                             |                                                                                             |
+| Links to any documentation or additional sources used |                                                                                            |                                             |                                                                                             |
+
 ## Criteria
 
 |Criteria|Complete|Incomplete|
